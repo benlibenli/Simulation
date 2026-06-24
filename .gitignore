@@ -1,0 +1,10 @@
+*.csv
+.vscode/
+.venv/
+*.out
+*.o
+*.dbl
+*.flt
+*.tab
+makefile
+pluto
