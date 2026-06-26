@@ -6,5 +6,6 @@
 *.dbl
 *.flt
 *.tab
+*.log
 makefile
 pluto
